@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [IridiumSkyblock](https://github.com/Iridium-Development/IridiumSkyblock)
 
-- 🌱 I’m currently learning **TypeScript/JavaScript**
+- 🌱 I’m currently learning **TypeScript/JavaScript and React**
 
 - 💧 I’m a spigotmc dev [https://www.spigotmc.org/members/peaches_mlg.194338/](https://www.spigotmc.org/members/peaches_mlg.194338/)
 
