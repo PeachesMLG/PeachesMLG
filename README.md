@@ -12,4 +12,7 @@
 - 📫 How to reach me **Peaches_MLG#0001**
 
 ### Stats
-  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PeachesMLG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<div align="center">  
+<img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PeachesMLG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PeachesMLG&show_icons=true&theme=dark">
+</div>
